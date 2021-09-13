@@ -1,5 +1,11 @@
 # 5. Проверяем домашние работы
 
+---
+
+Предыдущий раздел: [4. Стилизация](./module-4.md)
+
+---
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=9FED0mV39S8" target="_blank"><img src="http://img.youtube.com/vi/9FED0mV39S8/0.jpg"
 alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="240" height="180" border="5" /></a>
 
